@@ -31,4 +31,4 @@ CSS Bootstrap Intro
 * Review the stacking order of footer elements on mobile. 
 
 
-![Form with footer](https://github.com/code-differently/css-bootstrap-intro/blob/main/nav-card-next-layout.jpg?raw=true)
+![Form with footer](https://github.com/code-differently/css-bootstrap-intro/blob/main/form-footer.jpg?raw=true)
