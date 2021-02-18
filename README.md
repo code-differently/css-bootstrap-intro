@@ -21,8 +21,8 @@ CSS Bootstrap Intro
 * Add a [form with validation](https://getbootstrap.com/docs/4.0/components/forms/#validation) inside a container that includes the users full mailing address.  
 * Style the container background color to appear to take the width of the screen.  
 * Ensure the form aligns well on mobile.  
-* Add a title above the form using a `display-x` to help the font appear larger.
-* Style the button color to be consistent with the other colors on your page.
+* Add a title above the form using a [`display-x`](https://getbootstrap.com/docs/4.0/content/typography/#display-headings) to help the font appear larger.
+* Style the [button color](https://getbootstrap.com/docs/4.0/components/buttons/#examples) to be consistent with the other colors on your page.
 * Watch out for any form background colors.
 
 ## Part 4
