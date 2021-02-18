@@ -28,9 +28,10 @@ CSS Bootstrap Intro
 ## Part 4
 * Add a footer to the site with a 3-5 column layout.
 * In one of the footer columns, display a list.
-* Add basic contact information to the footer. 
+* Add unordered and unstyled lists to the footer. 
+* Display one column with a thumbnail image. See [Media List](https://getbootstrap.com/docs/4.0/layout/media-object/#media-list).
 * Add an addtional simple opt-in form.
 * Review the stacking order of footer elements on mobile. 
 
 
-![Form with footer](https://github.com/code-differently/css-bootstrap-intro/blob/main/form-footer.jpg?raw=true)
+![Form with footer](https://github.com/code-differently/css-bootstrap-intro/blob/main/forms-footer.jpg?raw=true)
