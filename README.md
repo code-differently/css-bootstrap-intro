@@ -18,7 +18,7 @@ CSS Bootstrap Intro
 ![Bootstrap Beginning Layout](https://github.com/code-differently/css-bootstrap-intro/blob/main/nav-card-next-layout.jpg?raw=true)
 
 ## Part 3
-* Add a [form with validation](https://getbootstrap.com/docs/4.0/components/forms/#validation) inside a container that includes the users full mailing address.  
+* Add a [form with validation](https://getbootstrap.com/docs/4.0/components/forms/#validation) inside a container that includes the users full mailing address. See [US States list](https://gist.github.com/RichLogan/9903043). 
 * Style the container background color to appear to take the width of the screen.  
 * Ensure the form aligns well on mobile.  
 * Add a title above the form using a [`display-x`](https://getbootstrap.com/docs/4.0/content/typography/#display-headings) to help the font appear larger.
